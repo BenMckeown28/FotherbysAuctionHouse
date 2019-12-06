@@ -1,0 +1,476 @@
+#add{
+background-color: lightgreen;
+
+
+}
+.commisbid{
+  background-color: #2d2e40;
+  color: white;
+  margin-top: 5%;
+  width: 900px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.commisbid form{
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+}
+.leave{
+  margin-left: 20%;
+}
+.commisbid form input{
+  margin: 10px;
+  width: 800px;
+}
+.bid{
+  display: flex;
+  justify-content: center;
+}
+ ul {
+  list-style: none;
+}
+.action {
+
+  list-style: none;
+}
+
+.active2 {
+background-color: #4d4e69;
+
+}
+.headernav .titleh2{
+display: flex;
+justify-content: center;
+margin-left: 40%;
+}
+
+.buttons{
+  background-color: #2d2e40;
+width: 30%;
+margin-left: 10%;
+}
+ .buttons ul{
+  color:white;
+  list-style:none;
+
+}
+.buttons a{
+  color: white;
+}
+.buttons li{
+  padding:20px;
+}
+.logged{
+margin-left: 30%;
+}
+.headernav ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: #2d2e40;
+  padding: 10px;
+  color: white;
+  margin: 0;
+}
+
+.column li:hover{
+  background-color: #4d4e69;
+  -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+}
+
+.column ul{
+  color:white;
+list-style: none;
+display: flex;
+flex-direction: column;
+
+height:100%;
+background-color: #2d2e40;
+
+padding: 0;
+}
+.column ul a{
+  color: white;
+
+}
+.column ul li{
+  padding: 10px;
+  margin-top: 5%;
+}
+.column:hover{
+background-color: black;
+
+}
+html,body{
+  height:100%;
+  margin:0;
+}
+
+.flex-container{
+  display: -webkit-flex;
+    display: flex;
+    height: 5000px;
+}
+.sidenav {
+
+    -webkit-flex: 1;
+    flex: 2;
+}
+.content {
+
+
+    -webkit-flex: 5;
+    flex: 9;
+}
+
+.sidenav2{
+  -webkit-flex: 1;
+  flex: 3.5;
+}
+.content2 {
+
+
+    -webkit-flex: 5;
+    flex: 9;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+}
+.buyadd {
+  background-color: #2d2e40;
+  color: white;
+  width: 60%;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+
+}
+.buyadd input{
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+.formadd{
+background-color: #2d2e40;
+color: white;
+width: 700px;
+padding: 30px;
+display: flex;
+margin-right: 10%;
+
+}
+.formadd input{
+width: 650px;
+  justify-content: center;
+  text-align: center;
+}
+.logform{
+  background-color: #2d2e40;
+  color: white;
+  width: 60%;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  flex: 9;
+  margin-top: 5%;
+}
+.inputbox input{
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.submitbox input{
+  margin-top: 5%;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  opacity: 0.6;
+ transition: 0.3s;
+}
+.submitbox input:hover{
+background-color: #ed1c24;
+opacity:1;
+color: white;
+}
+.logform {
+
+}
+
+.tableview2{
+  margin-right: 20%;
+  width: 100%;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+.tableview2 table,th,td{
+  color:white;
+  border: 1px solid white;
+}
+.tableview2 th{
+    background-color: #2d2e40;
+  padding:10px;
+}
+.tableview2 td{
+  padding:10px;
+    background-color: #4d4e69;
+}
+.tableview{
+  width: 100%;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+.tableview table,th,td{
+  color:white;
+  border: 1px solid white;
+}
+.tableview th{
+    background-color: #2d2e40;
+  padding:10px;
+}
+.tableview td{
+  padding:10px;
+    background-color: #4d4e69;
+}
+.con{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+h2{
+margin-top: 2%;
+  text-align: center;}
+.search{
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.search input{
+  width: 15%;
+}
+.recommended
+{
+list-style: none;
+display: flex;
+justify-content: center;
+padding: 20px;
+
+
+}
+.recommended ul{
+width: 30%;
+list-style:none;
+
+
+}
+
+.auctions{
+
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  flex-direction: column;
+  width: 100%;
+
+
+
+}
+.auctions ul{
+  list-style:none;
+
+}
+.auctions li{
+  padding: 5px;
+
+}
+
+
+
+.recommended li{
+padding: 30px;
+
+}
+h1{
+  text-align: center;
+}
+
+.auctionsshow{
+  background-color: #2d2e40;
+  color: white;
+  transition: all .2s ease-in-out;
+
+
+
+}
+.auctionsshow:hover{
+  transform: scale(1.01);
+}
+
+.lot{
+  background-color: #2d2e40;
+  color: white;
+  padding: 40px;
+  transition: all .2s ease-in-out;
+}
+.lot:hover{
+  transform: scale(1.01);
+}
+.active {
+  background-color: red;
+}
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+margin: 60px;
+color: white;
+list-style: none;
+  transition: all .2s ease-in-out;
+}
+.grid ul{
+  list-style: none;
+}
+.grid ul:hover{
+
+
+
+}
+.cell {
+  display: flex;
+  flex: 0 0 32%;
+  height: 250px;
+  margin-bottom: 50px;
+  background-color:  #2d2e40;
+color: white;
+}
+.cell ul{
+  color: white;
+}
+
+.cell:hover{
+  transform: scale(1.01);
+}
+
+
+.cell:nth-child(3n) {
+  background-color:  #2d2e40;
+}
+.cell2 {
+  display: flex;
+  flex: 0 0 32%;
+  height: 250px;
+margin-bottom: 50px;
+  background-color:  #2d2e40;
+}
+.cell2 ul{
+  color: white;
+}
+.cell2:nth-child(3n) {
+  background-color:  #2d2e40;
+}
+
+.cell2:hover{
+  transform: scale(1.01);
+
+}
+.cell3 ul{
+  color: white;
+}
+.cell3 {
+  display: flex;
+  flex: 0 0 32%;
+  height: 250px;
+  margin-bottom: 50px;
+  background-color:  #2d2e40;
+}
+.cell3:nth-child(3n) {
+  background-color:  #2d2e40;
+}
+.cell3:hover{
+    transform: scale(1.01);
+}
+.cell4 ul{
+  color: white;
+}
+.cell4 {
+  display: flex;
+  flex: 0 0 32%;
+  height: 250px;
+margin-bottom: 50px;
+  background-color:  #2d2e40;
+}
+.cell4:nth-child(3n) {
+  background-color: #2d2e40;
+}
+.cell4:hover{
+  transform: scale(1.01);
+
+}
+.cell5 ul{
+  color: white;
+}
+.cell5 {
+  display: flex;
+  flex: 0 0 32%;
+  height: 250px;
+margin-bottom: 50px;
+  background-color:  #2d2e40;
+}
+.cell5:nth-child(3n) {
+  background-color:  #2d2e40;
+}
+.cell5:hover{
+
+    transform: scale(1.01);
+}
+.placehold{
+  width:200px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+.placehold2{
+  width:400px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  margin-right: 10%;
+}
+.cell ul{
+  display: flex;
+  flex-direction: column;
+}
+.cell2 ul{
+  display: flex;
+  flex-direction: column;
+}
+.cell3 ul{
+  display: flex;
+  flex-direction: column;
+}
+.cell4 ul{
+  display: flex;
+  flex-direction: column;
+}
+.cell5 ul{
+  display: flex;
+  flex-direction: column;
+}
